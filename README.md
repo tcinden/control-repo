@@ -7,4 +7,8 @@
 * this is an '*'
 * this is another '*'
 
+# this is '#'
 ## this is '##'
+### this is '###'
+#### this is '####'
+##### this is '#####'
