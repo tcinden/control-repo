@@ -11,9 +11,9 @@ mod 'richardc-datacat', '0.6.2'
 mod 'elastic-elasticsearch', '7.0.0'
 mod 'puppet-archive', '4.6.0'
 mod 'puppetlabs-java', '7.0.0'
-mod 'tc-elk',
-  :git => 'https://github.com/tcinden/tc-elk.git'
 mod 'puppetlabs-inifile', '5.0.0'
 mod 'puppetlabs-postgresql', '7.0.2'
 mod 'puppetlabs-firewall', '3.0.0'
 mod 'puppetlabs-puppetdb', '7.7.1'
+mod 'tc-elk',
+  :git => 'https://github.com/tcinden/tc-elk.git'
